@@ -4,7 +4,7 @@
 
 ### 👩🏾‍💻 About me
 💻 Sou deva .Net, entusiasta de tecnologia, sempre em busca de conhecimento! <br/>
-🐶 Mãe de 3 dogs lindos! <br/>
+🐶 Mãe de 4 dogs lindos! <br/>
 🧳 Adoro viajar, conhecer lugares e pessoas!! <br/> 
 👩🏾‍🦱 Empreendedora, possuo um ecommerce @soakilo <br/>
 💬 Gosto de trocar ideias, então bora falar sobre qualquer coisa relacionada a desenvolvimento web, carreira, tecnologias e assuntos aleatórios sobre o universo 
