@@ -7,8 +7,8 @@
 🐶 Mãe de 4 dogs lindos! <br/>
 🧳 Adoro viajar, conhecer lugares e pessoas!! <br/> 
 👩🏾‍🦱 Empreendedora, possuo um ecommerce @soakilo <br/>
-💬 Gosto de trocar ideias, então bora falar sobre qualquer coisa relacionada a desenvolvimento web, carreira, tecnologias e assuntos aleatórios sobre o universo 
-📚 Aprendendo mais sobre Devops, Go, Patterns, atualmente <br/> <br/>
+💬 Gosto de trocar ideias, então bora falar sobre qualquer coisa relacionada a desenvolviment, carreira, tecnologias e assuntos aleatórios sobre o universo <br/>
+📚 Aprendendo sempre ... <br/> <br/>
 
 ### ❤️ Let's Get connected
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-regina-rocha/)
