@@ -35,6 +35,7 @@
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 <br/> <br/>
 ### ✍🏾 Latest Publications
 - [Post - Por que tu fazes o que fazes?](https://www.linkedin.com/posts/luciana-regina-rocha_propaejsito-sucesso-transformaaexaeto-activity-7064593158101155840-ZEeu?utm_source=share&utm_medium=member_desktop)
