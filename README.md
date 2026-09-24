@@ -73,6 +73,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry em .NET: seguindo uma requisição pelo sistema](https://lucianareginarocha.com.br/blog/opentelemetry-em-dotnet-seguindo-uma-requisicao-pelo-sistema/)
+- [Latência, qualidade e custo: escolha seus problemas](https://lucianareginarocha.com.br/blog/latencia-qualidade-e-custo-escolha-seus-problemas/)
+- [Code Coverage: 90% pode não significar absolutamente nada](https://lucianareginarocha.com.br/blog/code-coverage-90-por-cento-pode-nao-significar-absolutamente-nada/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
