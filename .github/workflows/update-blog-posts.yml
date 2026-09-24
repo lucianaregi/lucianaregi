@@ -3,6 +3,7 @@ name: Atualizar posts do blog
 on:
   schedule:
     - cron: "0 9 * * *"
+
   workflow_dispatch:
 
 permissions:
@@ -10,10 +11,15 @@ permissions:
 
 jobs:
   update-readme:
+    name: Atualizar últimos posts no README
     runs-on: ubuntu-latest
 
     steps:
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Atualizar posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://lucianareginarocha.com.br/rss.xml"
           max_post_count: 3
