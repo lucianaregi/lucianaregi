@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mutation Testing: seus testes realmente conseguiriam encontrar um bug?](https://lucianareginarocha.com.br/blog/mutation-testing-seus-testes-realmente-conseguiriam-encontrar-um-bug/)
 - [Evals: como parar de perguntar &quot;parece bom?&quot; para sua IA](https://lucianareginarocha.com.br/blog/evals-como-parar-de-perguntar-parece-bom-para-sua-ia/)
 - [OpenTelemetry em .NET: seguindo uma requisição pelo sistema](https://lucianareginarocha.com.br/blog/opentelemetry-em-dotnet-seguindo-uma-requisicao-pelo-sistema/)
-- [Latência, qualidade e custo: escolha seus problemas](https://lucianareginarocha.com.br/blog/latencia-qualidade-e-custo-escolha-seus-problemas/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
