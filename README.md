@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clean Architecture para aplicações com LLM: o que realmente precisa mudar?](https://lucianareginarocha.com.br/blog/clean-architecture-para-aplicacoes-com-llm-o-que-realmente-precisa-mudar/)
 - [Benchmark público não conhece sua aplicação](https://lucianareginarocha.com.br/blog/benchmark-publico-nao-conhece-sua-aplicacao/)
 - [Mutation Testing: seus testes realmente conseguiriam encontrar um bug?](https://lucianareginarocha.com.br/blog/mutation-testing-seus-testes-realmente-conseguiriam-encontrar-um-bug/)
-- [Evals: como parar de perguntar &quot;parece bom?&quot; para sua IA](https://lucianareginarocha.com.br/blog/evals-como-parar-de-perguntar-parece-bom-para-sua-ia/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
