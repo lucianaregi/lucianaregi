@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Memória de curto e longo prazo em agentes: o que vale a pena guardar?](https://lucianareginarocha.com.br/blog/memoria-de-curto-e-longo-prazo-em-agentes-o-que-vale-a-pena-guardar/)
 - [Clean Architecture para aplicações com LLM: o que realmente precisa mudar?](https://lucianareginarocha.com.br/blog/clean-architecture-para-aplicacoes-com-llm-o-que-realmente-precisa-mudar/)
 - [Benchmark público não conhece sua aplicação](https://lucianareginarocha.com.br/blog/benchmark-publico-nao-conhece-sua-aplicacao/)
-- [Mutation Testing: seus testes realmente conseguiriam encontrar um bug?](https://lucianareginarocha.com.br/blog/mutation-testing-seus-testes-realmente-conseguiriam-encontrar-um-bug/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
