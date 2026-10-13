@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentes especializados ou um agente que faz tudo? Uma comparação pragmática](https://lucianareginarocha.com.br/blog/agentes-especializados-ou-um-agente-que-faz-tudo-uma-comparacao-pragmatica/)
 - [Nem toda decisão precisa ser definitiva](https://lucianareginarocha.com.br/blog/nem-toda-decisao-precisa-ser-definitiva/)
 - [Strategy Pattern para trocar de modelo de IA sem desmontar sua aplicação](https://lucianareginarocha.com.br/blog/strategy-pattern-para-trocar-de-modelo-de-ia-sem-desmontar-sua-aplicacao/)
-- [Memória de curto e longo prazo em agentes: o que vale a pena guardar?](https://lucianareginarocha.com.br/blog/memoria-de-curto-e-longo-prazo-em-agentes-o-que-vale-a-pena-guardar/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
