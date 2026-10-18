@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O personagem mais forte raramente é o mais interessante](https://lucianareginarocha.com.br/blog/o-personagem-mais-forte-raramente-e-o-mais-interessante/)
 - [Fallback entre modelos: quando sua IA precisa de um plano B](https://lucianareginarocha.com.br/blog/fallback-entre-modelos-quando-sua-ia-precisa-de-um-plano-b/)
 - [Agentes especializados ou um agente que faz tudo? Uma comparação pragmática](https://lucianareginarocha.com.br/blog/agentes-especializados-ou-um-agente-que-faz-tudo-uma-comparacao-pragmatica/)
-- [Nem toda decisão precisa ser definitiva](https://lucianareginarocha.com.br/blog/nem-toda-decisao-precisa-ser-definitiva/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
