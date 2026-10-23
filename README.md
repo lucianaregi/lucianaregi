@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Filas e processamento assíncrono para aplicações com IA](https://lucianareginarocha.com.br/blog/filas-e-processamento-assincrono-para-aplicacoes-com-ia/)
 - [Human-in-the-loop: talvez sua IA ainda precise perguntar antes de fazer besteira](https://lucianareginarocha.com.br/blog/human-in-the-loop-talvez-sua-ia-ainda-precise-perguntar-antes-de-fazer-besteira/)
 - [O personagem mais forte raramente é o mais interessante](https://lucianareginarocha.com.br/blog/o-personagem-mais-forte-raramente-e-o-mais-interessante/)
-- [Fallback entre modelos: quando sua IA precisa de um plano B](https://lucianareginarocha.com.br/blog/fallback-entre-modelos-quando-sua-ia-precisa-de-um-plano-b/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
