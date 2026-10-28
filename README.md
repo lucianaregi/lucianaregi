@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracing distribuído: seguindo o caos entre serviços](https://lucianareginarocha.com.br/blog/tracing-distribuido-seguindo-o-caos-entre-servicos/)
 - [Estado, contexto e memória em sistemas Multi-Agent](https://lucianareginarocha.com.br/blog/estado-contexto-e-memoria-em-sistemas-multi-agent/)
 - [Filas e processamento assíncrono para aplicações com IA](https://lucianareginarocha.com.br/blog/filas-e-processamento-assincrono-para-aplicacoes-com-ia/)
-- [Human-in-the-loop: talvez sua IA ainda precise perguntar antes de fazer besteira](https://lucianareginarocha.com.br/blog/human-in-the-loop-talvez-sua-ia-ainda-precise-perguntar-antes-de-fazer-besteira/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
