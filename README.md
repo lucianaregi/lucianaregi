@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resiliência em sistemas de IA: quando tudo que pode falhar eventualmente falha](https://lucianareginarocha.com.br/blog/resiliencia-em-sistemas-de-ia-quando-tudo-que-pode-falhar-eventualmente-falha/)
 - [Como evitar que múltiplos agentes gastem tokens discutindo entre eles](https://lucianareginarocha.com.br/blog/como-evitar-que-multiplos-agentes-gastem-tokens-discutindo-entre-eles/)
 - [Tracing distribuído: seguindo o caos entre serviços](https://lucianareginarocha.com.br/blog/tracing-distribuido-seguindo-o-caos-entre-servicos/)
-- [Estado, contexto e memória em sistemas Multi-Agent](https://lucianareginarocha.com.br/blog/estado-contexto-e-memoria-em-sistemas-multi-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
