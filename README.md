@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Injection: quando alguém tenta dar ordens para sua IA pelas suas costas](https://lucianareginarocha.com.br/blog/prompt-injection-quando-alguem-tenta-dar-ordens-para-sua-ia-pelas-suas-costas/)
 - [Resiliência em sistemas de IA: quando tudo que pode falhar eventualmente falha](https://lucianareginarocha.com.br/blog/resiliencia-em-sistemas-de-ia-quando-tudo-que-pode-falhar-eventualmente-falha/)
 - [Como evitar que múltiplos agentes gastem tokens discutindo entre eles](https://lucianareginarocha.com.br/blog/como-evitar-que-multiplos-agentes-gastem-tokens-discutindo-entre-eles/)
-- [Tracing distribuído: seguindo o caos entre serviços](https://lucianareginarocha.com.br/blog/tracing-distribuido-seguindo-o-caos-entre-servicos/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
