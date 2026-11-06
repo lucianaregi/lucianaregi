@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rate Limiting em APIs .NET: porque recursos não são infinitos](https://lucianareginarocha.com.br/blog/rate-limiting-em-apis-dotnet-porque-recursos-nao-sao-infinitos/)
 - [Prompt Injection: quando alguém tenta dar ordens para sua IA pelas suas costas](https://lucianareginarocha.com.br/blog/prompt-injection-quando-alguem-tenta-dar-ordens-para-sua-ia-pelas-suas-costas/)
 - [Resiliência em sistemas de IA: quando tudo que pode falhar eventualmente falha](https://lucianareginarocha.com.br/blog/resiliencia-em-sistemas-de-ia-quando-tudo-que-pode-falhar-eventualmente-falha/)
-- [Como evitar que múltiplos agentes gastem tokens discutindo entre eles](https://lucianareginarocha.com.br/blog/como-evitar-que-multiplos-agentes-gastem-tokens-discutindo-entre-eles/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
