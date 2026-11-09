@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jailbreak, Prompt Injection e instruções maliciosas: é tudo a mesma coisa?](https://lucianareginarocha.com.br/blog/jailbreak-prompt-injection-e-instrucoes-maliciosas-e-tudo-a-mesma-coisa/)
 - [Rate Limiting em APIs .NET: porque recursos não são infinitos](https://lucianareginarocha.com.br/blog/rate-limiting-em-apis-dotnet-porque-recursos-nao-sao-infinitos/)
 - [Prompt Injection: quando alguém tenta dar ordens para sua IA pelas suas costas](https://lucianareginarocha.com.br/blog/prompt-injection-quando-alguem-tenta-dar-ordens-para-sua-ia-pelas-suas-costas/)
-- [Resiliência em sistemas de IA: quando tudo que pode falhar eventualmente falha](https://lucianareginarocha.com.br/blog/resiliencia-em-sistemas-de-ia-quando-tudo-que-pode-falhar-eventualmente-falha/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
