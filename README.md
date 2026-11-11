@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A diferença entre mudar de caminho e abandonar o caminho](https://lucianareginarocha.com.br/blog/a-diferenca-entre-mudar-de-caminho-e-abandonar-o-caminho/)
 - [Jailbreak, Prompt Injection e instruções maliciosas: é tudo a mesma coisa?](https://lucianareginarocha.com.br/blog/jailbreak-prompt-injection-e-instrucoes-maliciosas-e-tudo-a-mesma-coisa/)
 - [Rate Limiting em APIs .NET: porque recursos não são infinitos](https://lucianareginarocha.com.br/blog/rate-limiting-em-apis-dotnet-porque-recursos-nao-sao-infinitos/)
-- [Prompt Injection: quando alguém tenta dar ordens para sua IA pelas suas costas](https://lucianareginarocha.com.br/blog/prompt-injection-quando-alguem-tenta-dar-ordens-para-sua-ia-pelas-suas-costas/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
