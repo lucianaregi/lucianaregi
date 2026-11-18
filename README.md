@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quando vencer não significa necessariamente ganhar](https://lucianareginarocha.com.br/blog/quando-vencer-nao-significa-necessariamente-ganhar/)
 - [Tokens também são dinheiro: onde uma aplicação de IA começa a ficar cara](https://lucianareginarocha.com.br/blog/tokens-tambem-sao-dinheiro-onde-uma-aplicacao-de-ia-comeca-a-ficar-cara/)
 - [Cache em aplicações de IA: você precisa mesmo perguntar a mesma coisa de novo?](https://lucianareginarocha.com.br/blog/cache-em-aplicacoes-de-ia-voce-precisa-mesmo-perguntar-a-mesma-coisa-de-novo/)
-- [A diferença entre mudar de caminho e abandonar o caminho](https://lucianareginarocha.com.br/blog/a-diferenca-entre-mudar-de-caminho-e-abandonar-o-caminho/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
