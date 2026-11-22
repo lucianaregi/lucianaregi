@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guardrails: proteção útil ou falsa sensação de segurança?](https://lucianareginarocha.com.br/blog/guardrails-protecao-util-ou-falsa-sensacao-de-seguranca/)
 - [Health Checks além do famoso /health = OK](https://lucianareginarocha.com.br/blog/health-checks-alem-do-famoso-health-igual-ok/)
 - [Quando vencer não significa necessariamente ganhar](https://lucianareginarocha.com.br/blog/quando-vencer-nao-significa-necessariamente-ganhar/)
-- [Tokens também são dinheiro: onde uma aplicação de IA começa a ficar cara](https://lucianareginarocha.com.br/blog/tokens-tambem-sao-dinheiro-onde-uma-aplicacao-de-ia-comeca-a-ficar-cara/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
