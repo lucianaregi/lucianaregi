@@ -91,9 +91,9 @@ No meu blog escrevo sobre .NET, arquitetura, Inteligência Artificial, desenvolv
 ### Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Serilog e logs estruturados: Console.WriteLine não vai salvar você em produção](https://lucianareginarocha.com.br/blog/serilog-e-logs-estruturados-console-writeline-nao-vai-salvar-voce-em-producao/)
 - [Guardrails: proteção útil ou falsa sensação de segurança?](https://lucianareginarocha.com.br/blog/guardrails-protecao-util-ou-falsa-sensacao-de-seguranca/)
 - [Health Checks além do famoso /health = OK](https://lucianareginarocha.com.br/blog/health-checks-alem-do-famoso-health-igual-ok/)
-- [Quando vencer não significa necessariamente ganhar](https://lucianareginarocha.com.br/blog/quando-vencer-nao-significa-necessariamente-ganhar/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
